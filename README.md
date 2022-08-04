@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ClosedForester
+- 👀 I’m interested in FrontEnd(i hate back end but i know some stuff haha)
+- 🌱 I’m currently learning FrontEnd(PHP HTML CSS) and BackEnd(C#)
+- 📫 How to reach me: Gmail; nkilasonia72@gmail.com or Instagram: ClosedForester
+-Bye for now :)
